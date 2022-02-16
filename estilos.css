@@ -1,0 +1,15 @@
+body{
+    background:radial-gradient(ellipse at top left, rgb(0, 139, 93), rgb(177, 173, 230), white );
+}
+html, body{
+    height: 100%;
+}
+h1{
+    background: red;
+    display: flex;
+    justify-content: center;
+    margin: 200px;
+    padding: 20px;
+   
+
+}
